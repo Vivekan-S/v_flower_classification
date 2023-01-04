@@ -14,3 +14,6 @@ used gradio UI for the deployment , the images can be uploaded and predicted.
 
 ![image](https://user-images.githubusercontent.com/106756989/210369443-77509676-1f3b-4634-8956-2e0813a5a6a6.png)
 ![image](https://user-images.githubusercontent.com/106756989/210369610-1b9559ab-6e0d-4e95-a343-e87bacb42207.png)
+
+# public link 
+https://huggingface.co/spaces/Vivekan/v_flower_classification
