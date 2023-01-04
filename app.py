@@ -15,7 +15,7 @@ img_height,img_width=180,180
 
 model_flower = keras.models.load_model('model_flower.h5')
 
-
+class_names = ['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
 
 
 
